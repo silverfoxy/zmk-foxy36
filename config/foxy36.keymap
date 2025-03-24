@@ -208,5 +208,14 @@
                      &trans         &trans       &kp DELETE      &kp BACKSPACE  &trans          &trans
             >;
         };
+
+        Symbols {
+            bindings = <
+&kp EXCLAMATION  &kp AT_SIGN        &kp HASH              &kp DOLLAR             &kp PERCENT        &kp CARET      &kp AMPERSAND   &kp ASTERISK     &kp GRAVE  &kp TILDE
+&trans           &trans             &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SLASH          &kp COLON      &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PLUS   &kp SQT
+&kp SQT          &kp DOUBLE_QUOTES  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BACKSLASH      &kp SEMICOLON  &trans          &trans           &kp EQUAL  &kp PIPE
+                                    &trans                &trans                 &trans             &trans         &trans          &trans
+            >;
+        };
     };
 };
