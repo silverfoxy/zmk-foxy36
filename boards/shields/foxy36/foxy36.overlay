@@ -6,11 +6,6 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/pointing.h>
 
-&mt {
-    flavor = "tap-preferred";
-    tapping-terms-ms = <300>;
-};
-
 / {
     behaviors {
         skq: skq {
