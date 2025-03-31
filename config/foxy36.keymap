@@ -195,7 +195,7 @@
         colemak {
             bindings = <
 &kp Q             &ht_copy 0 W  &kp F                   &ht_paste 0 P            &kp B                &kp J            &kp L             &kp U              &kp Y             &kp SEMICOLON
-&mt LC(A) A       &mt LC(S) R   &mt LEFT_PARENTHESIS S  &mt RIGHT_PARENTHESIS T  &mt SLASH G          &mt COLON M      &mt LEFT_BRACE N  &mt RIGHT_BRACE E  &mt PLUS I        &kp O
+&mt LC(A) A       &mt LC(S) R   &mt LEFT_PARENTHESIS S  &mt RIGHT_PARENTHESIS T  &mt SLASH G          &mt COLON M      &mt LEFT_BRACE N  &mt RIGHT_BRACE E  &mt PLUS I        &mt LC(O) O
 &ht_tmx_scrl 0 Z  &ht_cut 0 X   &mt LEFT_BRACKET C      &mt RIGHT_BRACKET D      &mt BACKSLASH V      &mt SEMICOLON K  &kp H             &kp COMMA          &mt EQUAL PERIOD  &kp FSLH
                                 &kp LEFT_GUI            &mo 1                    &kp SPACE            &kp RET          &mo 2             &kp RIGHT_ALT
             >;
